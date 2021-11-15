@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @williamyhg1
+- 👋 Hi, I’m William
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate with you!
+- 📫 You can contact me via williamyhg1@gmail.com
 
 <!---
 williamyhg1/williamyhg1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
