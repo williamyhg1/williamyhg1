@@ -1,7 +1,7 @@
 - 👋 Hi, I’m William
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate with you!
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate or working with you!
 - 📫 You can contact me via williamyhg1@gmail.com
 
 <!---
